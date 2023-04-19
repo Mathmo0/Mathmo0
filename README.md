@@ -28,7 +28,7 @@ Oracle, PostgreSQL</td></tr>
 # 📞 Contact
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/mathis-moyse/">
+	<a href="https://www.linkedin.com/in/mathis-moyse-aaa52b17b/">
 		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
