@@ -13,11 +13,11 @@ Hi! I'm a software engineering student at **[Polytech Tours](https://polytech.un
 <tr>
     <td><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td><td><a href="https://unity.com/">Unity</a></td><td><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td><td><a href="https://en.wikipedia.org/wiki/Unix">Unix</a></td></tr>
 <tr>
-    <td><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a></td><td><a href="https://openjfx.io/">JavaFX</a></td><td><a href="https://nodejs.org/en/">NodeJS</a></td></td><td>UML</td></tr>
+    <td><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a></td><td><a href="https://openjfx.io/">JavaFX</a></td><td><a href="https://nodejs.org/en/">NodeJS</a></td></td><td><a href="https://fr.wikipedia.org/wiki/UML_(informatique)">UML</a></td></tr>
 <tr>
     <td><a href="https://www.python.org/">Python</a></td><td></td><td><a href="https://jquery.com/">jQuery</a></td></td><td><a href="https://en.wikipedia.org/wiki/ACT-R">Informatique Cognitive (Lisp, act-R)</a></td></tr>
 <tr>
-    <td><a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">Kotlin</a></td><td></td><td><a href="https://fr.wikipedia.org/wiki/PHP">PHP</a></td></td><td>R studio</td></tr>
+    <td><a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">Kotlin</a></td><td></td><td><a href="https://fr.wikipedia.org/wiki/PHP">PHP</a></td></td><td><a href="https://fr.wikipedia.org/wiki/RStudio">R studio</a></td></tr>
 <tr>
     <td><a href="https://fr.wikipedia.org/wiki/Android">Android</a></td><td></td><td><a href="https://fr.wikipedia.org/wiki/XAMPP">Xampp</a></td></td><td><a href="https://en.wikipedia.org/wiki/CPLEX">IBM Cplex</a></td></tr>
 <tr>
