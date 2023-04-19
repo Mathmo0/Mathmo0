@@ -24,3 +24,15 @@ Hi! I'm a software engineering student at **[Polytech Tours](https://polytech.un
     <td><a href="https://git-scm.com/">Git</a></td><td></td><td><a href="https://getbootstrap.com/">Bootstrap</a></td></td><td>MySQL,
 Oracle, PostgreSQL</td></tr>
 </table>
+
+# 📞 Contact
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/mathis-moyse/">
+		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="mailto:mathis.moyse@gmail.com">
+		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+</p>
