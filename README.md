@@ -15,11 +15,11 @@ Hi! I'm a software engineering student at **[Polytech Tours](https://polytech.un
 <tr>
     <td><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a></td><td><a href="https://openjfx.io/">JavaFX</a></td><td><a href="https://nodejs.org/en/">NodeJS</a></td></td><td>UML</td></tr>
 <tr>
-    <td><a href="https://www.python.org/">Python</a></td><td></td><td><a href="https://jquery.com/">jQuery</a></td></td><td>Informatique Cognitive (Lisp, act-R</td></tr>
+    <td><a href="https://www.python.org/">Python</a></td><td></td><td><a href="https://jquery.com/">jQuery</a></td></td><td><a href="https://en.wikipedia.org/wiki/ACT-R">Informatique Cognitive (Lisp, act-R)</a></td></tr>
 <tr>
     <td><a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">Kotlin</a></td><td></td><td><a href="https://fr.wikipedia.org/wiki/PHP">PHP</a></td></td><td>R studio</td></tr>
 <tr>
-    <td><a href="https://fr.wikipedia.org/wiki/Android">Android</a></td><td></td><td><a href="https://fr.wikipedia.org/wiki/XAMPP">Xampp</a></td></td><td>IBM Cplex</td></tr>
+    <td><a href="https://fr.wikipedia.org/wiki/Android">Android</a></td><td></td><td><a href="https://fr.wikipedia.org/wiki/XAMPP">Xampp</a></td></td><td><a href="https://en.wikipedia.org/wiki/CPLEX">IBM Cplex</a></td></tr>
 <tr>
     <td><a href="https://git-scm.com/">Git</a></td><td></td><td><a href="https://getbootstrap.com/">Bootstrap</a></td></td><td>MySQL,
 Oracle, PostgreSQL</td></tr>
