@@ -1,5 +1,5 @@
 # 👀 About me
-Hi! I'm a software engineering student at **[Polytech Tours](https://polytech.univ-tours.fr/)** in France. I'm also a double graduate from the University of Sherbrooke in Quebec.
+Hi! I'm a software engineering student at **[Polytech Tours](https://polytech.univ-tours.fr/)** in France. I'm also a double graduate from the **[University of Sherbrooke](https://www.usherbrooke.ca/)** in Quebec.
 
 # 🧠 skills
 
