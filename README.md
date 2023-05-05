@@ -25,6 +25,8 @@ Hi! I'm a software engineering student at **[Polytech Tours](https://polytech.un
 Oracle, PostgreSQL</td></tr>
 </table>
 
+# 💻 Projects
+
 # 📞 Contact
 
 <p align="center">
