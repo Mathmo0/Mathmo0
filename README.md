@@ -28,10 +28,10 @@ Oracle, PostgreSQL</td></tr>
 # 💻 Projects
 
 ## [🏃‍♂️ Evacuation simulation *(2021)*](https://github.com/Mathmo0/Simulation_foule)
-## [💾 Sauvegarde backup *(2022)*]()
+## [💾 Recovery backup *(2022)*]()
 ## [🚀 Space racer video game *(2022)*](https://github.com/Mathmo0/F_12)
 ## [📱 PokemonGo-like *(2022)*]()
-## [🚴‍♀️ Application solidaire *(2022)*](https://github.com/neonzip/Projet_SOLID-R)
+## [🚴‍♀️ Solidarity mobile Application *(2022)*](https://github.com/neonzip/Projet_SOLID-R)
 
 # 📞 Contact
 
