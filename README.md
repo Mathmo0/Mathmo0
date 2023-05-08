@@ -5,7 +5,7 @@ Hi! I'm a software engineering student at **[Polytech Tours](https://polytech.un
 
 <table align="center">
 <tr>
-    <th>Software Development</th><th>Computer Graphic</th><th>Web</th><th>Knoledge</th></tr>
+    <th>Software Development</th><th>Computer Graphic</th><th>Web</th><th>Knowledges</th></tr>
 <tr>
     <td><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td><td><a href="https://www.opengl.org//">OpenGL</a></td><td><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td><td><a href="https://sql.sh/">SQL</a></td></tr>
 <tr>
@@ -26,6 +26,12 @@ Oracle, PostgreSQL</td></tr>
 </table>
 
 # 💻 Projects
+
+## [🏃‍♂️ Evacuation simulation *(2021)*](https://github.com/Mathmo0/Simulation_foule)
+## [💾 Sauvegarde backup *(2022)*]()
+## [🚀 Space racer video game *(2022)*](https://github.com/Mathmo0/F_12)
+## [📱 PokemonGo-like *(2022)*]()
+## [🚴‍♀️ Application solidaire *(2022)*](https://github.com/neonzip/Projet_SOLID-R)
 
 # 📞 Contact
 
