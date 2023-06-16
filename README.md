@@ -45,7 +45,7 @@ This project aims to simulate the evacuation of a crowd at a microscopic scale, 
 ## [💾 Recovery backup *(2022)*]()
 
 <div class="Images">
-<img src="https://www.pslv.fr/wp-content/uploads/2021/02/logo_pslv.gif">
+<p align="center"></p><img src="https://www.pslv.fr/wp-content/uploads/2021/02/logo_pslv.gif"></p>
 </div>
 <p>
 As part of my engineering assistant internship at the Pôle Santé Léonard de Vinci, I developed a DB backup system. 
