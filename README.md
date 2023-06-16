@@ -71,7 +71,7 @@ This project is constituted of tree parts: the server, the android application a
 <h5 align="center">Some screenshot of the android application.</h5>
 <p align="center">
 <img src="https://media.discordapp.net/attachments/1119350077710934137/1119357172883652648/image.png?width=806&height=380">
-<h5>Pokedex consulting on the web.</h5>
+<h5 align="center">Pokedex consulting on the web.</h5>
 </p>
 
 ## [🚴‍♀️ Solidarity mobile Application *(2022)*](https://github.com/neonzip/Projet_SOLID-R)
@@ -86,7 +86,7 @@ Starting from scratch, we only did the frontend.
 </p>
 <p align="center">
 <img src="https://media.discordapp.net/attachments/1119350077710934137/1119358435461431387/image.png?width=298&height=662">
-<h5>Screenshot of the main page of the application.</h5>
+<h5 align="center">Screenshot of the main page of the application.</h5>
 </p>
 
 
