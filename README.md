@@ -68,7 +68,7 @@ This project is constituted of tree parts: the server, the android application a
 <p align="center">
 <img src="https://media.discordapp.net/attachments/1119350077710934137/1119352660563345508/image.png?width=671&height=662" align="center">
 </p>
-<h5 style="text-align: center;">Some screenshot of the android application.</h5>
+<h5 align: center;">Some screenshot of the android application.</h5>
 <p align="center">
 <img src="https://media.discordapp.net/attachments/1119350077710934137/1119357172883652648/image.png?width=806&height=380">
 <h5>Pokedex consulting on the web.</h5>
