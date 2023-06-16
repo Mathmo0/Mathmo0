@@ -32,7 +32,7 @@ Oracle, PostgreSQL</td></tr>
 ## [🚀 Space racer video game *(2022)*](https://github.com/Mathmo0/F_12)
 ## [📱 PokemonGo-like *(2022)*]()
 
-<img src="https://media.discordapp.net/attachments/1119350077710934137/1119350496403148962/POLYPOKE_logo.png?width=552&height=662" align="center">
+<img src="https://media.discordapp.net/attachments/1119350077710934137/1119350496403148962/POLYPOKE_logo.png?width=552&height=662" style="width: 30%; height: 30%; margin: auto;">
 <p>
 	The aim of the application is to reproduce to some extent the PokémonGO application. The aim is to put into practice our knowledge of setting up a NodeJS server and developing Android applications. This project is part of my Internet and Mobility course. 
 </p>
