@@ -34,13 +34,11 @@ Oracle, PostgreSQL</td></tr>
 </p>
 
 <p align="center">
-	I was lucky enough to take part in the 13th edition of the Ubisoft Game Lab Competition as part of the Université de Sherbrooke team. The 8 of us had to create an arcade-style game within certain constraints. We came up with an original rogue-like idea on the theme of cooking, in a fun universe where food wants to kill but can also improve your stats.
+	I was lucky enough to take part in the 13th edition of the Ubisoft Game Lab Competition as part of the Université de Sherbrooke team. The 8 of us had to create an arcade-style game within certain constraints. We came up with an original rogue-like idea on the theme of cooking, in a fun universe where food wants to kill but can also improve your stats. My role in the team was to do the level design and the procedural level generation system. I also helped come up with ideas for theme integration, gameplay and asset design.
 </p>
 
-<p align="center">
-	<img src="">
-</p>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jgIqBRt-SDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<h5 align="center">Gameplay video by my mate</h5>
 ## [🏃‍♂️ Evacuation simulation *(2021)*](https://github.com/Mathmo0/Simulation_foule)
 <p align="center">
 </p>
