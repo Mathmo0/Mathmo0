@@ -30,7 +30,7 @@ Oracle, PostgreSQL</td></tr>
 ## [🥖 Cooking Overtime ! (13th edition of the Ubisoft Game Lab Competition)](https://ivs2107.itch.io/cooking-overtime)<p>
 
 <p align="center">
-	<img src="https://media.discordapp.net/attachments/1119350077710934137/1120035187154239518/ImagePresentation.png?width=1177&height=662">
+	<img src="https://media.discordapp.net/attachments/1119350077710934137/1120035187154239518/ImagePresentation.png?width=1177&height=662" style="width:80%;">
 </p>
 
 < p align="center">
@@ -38,7 +38,7 @@ Oracle, PostgreSQL</td></tr>
 </p>
 
 <p align="center">
-	<img src="https://images-ext-2.discordapp.net/external/okMtSFvilByAAJm7qiPq7motQMe8fL3M1hZCGRk_fkg/https/media.tenor.com/ZHze27YyLIkAAAPo/joel-spinning.mp4">
+	<img src="">
 </p>
 
 ## [🏃‍♂️ Evacuation simulation *(2021)*](https://github.com/Mathmo0/Simulation_foule)
