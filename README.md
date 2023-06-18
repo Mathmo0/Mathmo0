@@ -27,6 +27,20 @@ Oracle, PostgreSQL</td></tr>
 
 # 💻 Projects
 
+## [🥖 Cooking Overtime ! (13th edition of the Ubisoft Game Lab Competition)](https://ivs2107.itch.io/cooking-overtime)<p>
+
+<p align="center">
+	<img src="https://media.discordapp.net/attachments/1119350077710934137/1120035187154239518/ImagePresentation.png?width=1177&height=662">
+</p>
+
+< p align="center">
+	I was lucky enough to take part in the 13th edition of the Ubisoft Game Lab Competition as part of the Université de Sherbrooke team. The 8 of us had to create an arcade-style game within certain constraints. We came up with an original rogue-like idea on the theme of cooking, in a fun universe where food wants to kill but can also improve your stats.
+</p>
+
+<p align="center">
+	<img src="https://images-ext-2.discordapp.net/external/okMtSFvilByAAJm7qiPq7motQMe8fL3M1hZCGRk_fkg/https/media.tenor.com/ZHze27YyLIkAAAPo/joel-spinning.mp4">
+</p>
+
 ## [🏃‍♂️ Evacuation simulation *(2021)*](https://github.com/Mathmo0/Simulation_foule)
 <p align="center">
 </p>
