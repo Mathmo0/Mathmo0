@@ -33,7 +33,7 @@ Oracle, PostgreSQL</td></tr>
 	<img src="https://media.discordapp.net/attachments/1119350077710934137/1120035187154239518/ImagePresentation.png?width=1177&height=662" style="width:80%;">
 </p>
 
-< p align="center">
+<p align="center">
 	I was lucky enough to take part in the 13th edition of the Ubisoft Game Lab Competition as part of the Université de Sherbrooke team. The 8 of us had to create an arcade-style game within certain constraints. We came up with an original rogue-like idea on the theme of cooking, in a fun universe where food wants to kill but can also improve your stats.
 </p>
 
