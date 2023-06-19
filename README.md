@@ -30,7 +30,7 @@ Oracle, PostgreSQL</td></tr>
 ## [🥖 Cooking Overtime ! (13th edition of the Ubisoft Game Lab Competition)](https://ivs2107.itch.io/cooking-overtime)<p>
 
 <p align="center">
-	<img src="https://media.discordapp.net/attachments/1119350077710934137/1120035187154239518/ImagePresentation.png?width=1177&height=662" style="width:80%;">
+	<img src="https://media.discordapp.net/attachments/1119350077710934137/1120035187154239518/ImagePresentation.png?width=1177&height=662" style="width:75%;">
 </p>
 
 <p>
@@ -71,7 +71,7 @@ In my spare time, I developed a game with Unity (C#) in the style of F-zero deve
 
 ## [📱 PokemonGo-like *(2022)*]()
 <p align="center">
-	<img src="https://media.discordapp.net/attachments/1119350077710934137/1119350496403148962/POLYPOKE_logo.png?width=552&height=662" style="width: 30%; height: 30%;">
+	<img src="https://media.discordapp.net/attachments/1119350077710934137/1119350496403148962/POLYPOKE_logo.png?width=552&height=662" style="width: 20%; height: 20%;">
 </p>
 
 <p>
