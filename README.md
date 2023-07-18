@@ -1,5 +1,6 @@
 # 👀 About me
 Hi! I'm a software engineering student at **[Polytech Tours](https://polytech.univ-tours.fr/)** in France. I'm also a double graduate from the **[University of Sherbrooke](https://www.usherbrooke.ca/)** in Quebec.
+My favorite fields are software development, computer graphics and Cloud computing. I'm currently doing my final internship at Logyline as a Cloud developer ☁️.
 
 # 🧠 skills
 
@@ -9,7 +10,7 @@ Hi! I'm a software engineering student at **[Polytech Tours](https://polytech.un
 <tr>
     <td><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td><td><a href="https://www.opengl.org//">OpenGL, </a><a href="https://en.wikipedia.org/wiki/OpenGL_Shading_Language">GLSL</a></td><td><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td><td><a href="https://sql.sh/">SQL</a></td></tr>
 <tr>
-    <td><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td><td> <a href="https://github.com/Mathmo0/Infographic">Infographic</a></td><td><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td><td><a href="https://www.figma.com/">Figma</a></td></tr>
+    <td><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td><td> <a href="https://github.com/Mathmo0/Infographic">Infographic [repo Git]</a></td><td><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td><td><a href="https://www.figma.com/">Figma</a></td></tr>
 <tr>
     <td><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td><td><a href="https://unity.com/">Unity</a></td><td><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td><td><a href="https://en.wikipedia.org/wiki/Unix">Unix</a></td></tr>
 <tr>
@@ -23,6 +24,7 @@ Hi! I'm a software engineering student at **[Polytech Tours](https://polytech.un
 <tr>
     <td><a href="https://git-scm.com/">Git</a></td><td></td><td><a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps">ASP .NET Razor</a></td></td><td>MySQL,
 Oracle, PostgreSQL</td></tr>
+<tr><td><a href="https://azure.microsoft.com/fr-fr">Cloud (Azure)</a></td><td></td><td></td></tr>
 </table>
 
 # 💻 Projects
