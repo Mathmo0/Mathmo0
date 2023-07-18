@@ -60,14 +60,15 @@ The aim was to reinforce the clinic's security by developing a system that would
 
 ## [🚀 Space racer video game *(2022)*](https://github.com/Mathmo0/F_12)
 <p align="center">
-<img src="">
+<img src="https://media.discordapp.net/attachments/1119350077710934137/1130901910958907422/F12_gameplay.gif?width=1042&height=662">
 </p>
 <p>
-In my spare time, I developed a game with Unity (C#) in the style of F-zero developed by Nintendo.  
+In my spare time, I developed a game with Unity (C#) in the style of F-zero developed by Nintendo. My goal was to develop a game on my own, for fun and to learn the basics. I was intrigued by Mode 7 and wanted to experiment with it in my own game by doing a simulation of this illusion in 3D.
 </p>
 <p align="center">
-<img src="">
+<img src="https://media.discordapp.net/attachments/1119350077710934137/1130907166669295758/image.png?width=717&height=608">
 </p>
+<h5 align="center">The race is generated procedurally, enabling an endless gameplay.</h5>
 
 ## [📱 PokemonGo-like *(2022)*]()
 <p align="center">
