@@ -24,7 +24,7 @@ My favorite fields are software development, computer graphics and Cloud computi
 <tr>
     <td><a href="https://git-scm.com/">Git</a></td><td></td><td><a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps">ASP .NET Razor</a></td></td><td>MySQL,
 Oracle, PostgreSQL</td></tr>
-<tr><td><a href="https://azure.microsoft.com/fr-fr">Cloud (Azure)</a></td><td></td><td></td></tr>
+<tr><td><a href="https://azure.microsoft.com/fr-fr">Cloud (Azure)</a></td><td></td><td></td><td></td></tr>
 </table>
 
 # 💻 Projects
