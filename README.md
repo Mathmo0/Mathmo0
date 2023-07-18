@@ -14,7 +14,7 @@ My favorite fields are software development, computer graphics and Cloud computi
 <tr>
     <td><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td><td><a href="https://unity.com/">Unity</a></td><td><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td><td><a href="https://en.wikipedia.org/wiki/Unix">Unix</a></td></tr>
 <tr>
-    <td><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#, .NET</a></td><td><a href="https://openjfx.io/">JavaFX</a></td><td><a href="https://nodejs.org/en/">NodeJS</a></td></td><td><a href="https://fr.wikipedia.org/wiki/UML_(informatique)">UML</a></td></tr>
+    <td><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#,</a> <a href="https://fr.wikipedia.org/wiki/Microsoft_.NET">.NET</a></td><td><a href="https://openjfx.io/">JavaFX</a></td><td><a href="https://nodejs.org/en/">NodeJS</a></td></td><td><a href="https://fr.wikipedia.org/wiki/UML_(informatique)">UML</a></td></tr>
 <tr>
     <td><a href="https://www.python.org/">Python</a></td><td><a href="https://github.com/Mathmo0/Synthese-dimages">Computer-generated images [repo Git]</a></td><td><a href="https://jquery.com/">jQuery</a></td></td><td><a href="https://en.wikipedia.org/wiki/ACT-R">Cognitive computing (Lisp, act-R)</a></td></tr>
 <tr>
