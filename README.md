@@ -60,7 +60,7 @@ The aim was to reinforce the clinic's security by developing a system that would
 
 ## [🚀 Space racer video game *(2022)*](https://github.com/Mathmo0/F_12)
 <p align="center">
-<img src="https://images-ext-1.discordapp.net/external/EUf8_V-DStihoOsKPLFcwCNTtvs2AvFRrVvhgKrk7nk/https/media.tenor.com/3wEt9q8PG3MAAAPo/zipped-mouth-wont-tell.gif">
+<img src="https://cdn.discordapp.com/attachments/1119350077710934137/1130913852893175868/F12_Gameplay_2.gif" alt="F12 Gameplay">
 </p>
 <p>
 In my spare time, I developed a game with Unity (C#) in the style of F-zero developed by Nintendo. My goal was to develop a game on my own, for fun and to learn the basics. I was intrigued by Mode 7 and wanted to experiment with it in my own game by doing a simulation of this illusion in 3D.
