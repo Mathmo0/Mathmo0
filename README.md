@@ -1,6 +1,6 @@
 # 👀 About me
 Hi! I'm a software engineering student at **[Polytech Tours](https://polytech.univ-tours.fr/)** in France. I'm also a double graduate from the **[University of Sherbrooke](https://www.usherbrooke.ca/)** in Quebec.
-My favorite fields are software development, computer graphics and Cloud computing. I'm currently doing my final internship at Logyline as a Cloud developer ☁️.
+My favorite fields are software development, computer graphics and Cloud computing. Recently graduated with a degree in Computer Engineering from Polytech Tours and a Master's degree in Computer Science from the University of Sherbrooke, Quebec, Canada. 
 
 # 🧠 skills
 
@@ -42,23 +42,6 @@ Oracle, PostgreSQL</td></tr>
 
 <h5 align="center"><a href="https://www.youtube.com/watch?v=jgIqBRt-SDI">Gameplay video by my mate</a></h5>
 
-## [🏃‍♂️ Evacuation simulation *(2021)*](https://github.com/Mathmo0/Simulation_foule)
-<p align="center">
-</p>
-<p>
-This project aims to simulate the evacuation of a crowd at a microscopic scale, such as the evacuation of a classroom. To achieve this, we relied on the mathematical model of social forces developed by Helbing.
-</p>
-<p align="center">
-</p>
-
-## [💾 Recovery backup *(2022)*]()
-
-<p align="center"><img src="https://www.pslv.fr/wp-content/uploads/2021/02/logo_pslv.gif"></p>
-<p>
-As part of my engineering assistant internship at the Pôle Santé Léonard de Vinci, I developed a DB backup system. 
-The aim was to reinforce the clinic's security by developing a system that would allow a temporary system to be run locally to maintain activities in the event of the main IT system being interrupted.
-</p>
-
 
 ## [🚀 Space racer video game *(2022)*](https://github.com/Mathmo0/F_12)
 <p align="center">
@@ -90,6 +73,18 @@ This project is constituted of tree parts: the server, the android application a
 <h5 align="center">Pokedex consulting on the web.</h5>
 </p>
 
+## [☁️ Cloud storage service *(2023)*]()
+<p align="center"><img src="https://media.discordapp.net/attachments/1119350077710934137/1171026975226335262/LOGO-LOGYLINE-2021-RVB-1.jpg?ex=655b2edb&is=6548b9db&hm=73dd6c79f3d72de9892124dba4575983ef276a5c3275e99ada3d42771b37987e&=&width=979&height=646"></p>
+<p>
+<p>
+I did my end-of-studies internship with Logyline. This company develops and sells CAD software for professionals. My role was to develop and integrate a cloud storage service in C# into their CAD software. The cloud project consists of a service part that is used with an API and a web interface for consulting statistics.
+</p>
+
+## [💡 Image synthesis - illumination system *(2023)*](https://github.com/Mathmo0/Synthese-dimages)
+
+### Trace de rayons
+<p>test</p>
+
 ## [🚴‍♀️ Solidarity mobile Application *(2022)*](https://github.com/neonzip/Projet_SOLID-R)
 
 <p align="center">
@@ -105,6 +100,22 @@ Starting from scratch, we only did the frontend.
 <h5 align="center">Screenshot of the main page of the application.</h5>
 </p>
 
+## [🏃‍♂️ Evacuation simulation *(2021)*](https://github.com/Mathmo0/Simulation_foule)
+<p align="center">
+</p>
+<p>
+This project aims to simulate the evacuation of a crowd at a microscopic scale, such as the evacuation of a classroom. To achieve this, we relied on the mathematical model of social forces developed by Helbing.
+</p>
+<p align="center">
+</p>
+
+## [💾 Recovery backup *(2022)*]()
+
+<p align="center"><img src="https://www.pslv.fr/wp-content/uploads/2021/02/logo_pslv.gif"></p>
+<p>
+As part of my engineering assistant internship at the Pôle Santé Léonard de Vinci, I developed a DB backup system. 
+The aim was to reinforce the clinic's security by developing a system that would allow a temporary system to be run locally to maintain activities in the event of the main IT system being interrupted.
+</p>
 
 # 📞 Contact
 
