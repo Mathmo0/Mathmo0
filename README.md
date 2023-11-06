@@ -1,5 +1,5 @@
 # 👀 About me
-Hi! I am a french software engineer, recently graduated with a degree in Computer Engineering from **[Polytech Tours](https://polytech.univ-tours.fr/)** in France and also a double graduate with a degree in Computer Science from the **[University of Sherbrooke](https://www.usherbrooke.ca/)**, Quebec, Canada. 
+Hi! I am a french software engineer, recently graduated with a degree in Computer Engineering from **[Polytech Tours](https://polytech.univ-tours.fr/)** in France and also double graduated with a degree in Computer Science from the **[University of Sherbrooke](https://www.usherbrooke.ca/)**, Quebec, Canada. 
 My favorite fields are software development, computer graphics and Cloud computing.  
 
 # 🧠 skills
