@@ -48,7 +48,7 @@ Oracle, PostgreSQL</td></tr>
 <img src="https://media.discordapp.net/attachments/1119350077710934137/1130915915660271638/F12_Gameplay_3.gif?width=313&height=200" alt="F12 Gameplay">
 </p>
 <p>
-In my spare time, I developed a game with Unity (C#) in the style of F-zero developed by Nintendo. My goal was to develop a game on my own, for fun and to learn the basics. I was intrigued by Mode 7, so I wanted to experiment by creating something similar in 3D.
+In my spare time, I developed a game with Unity (C#) in the style of F-zero developed by Nintendo. My goal was to develop a game on my own, for fun and to learn the basics. I developed a procedural generation of the pipe shaped race. I was intrigued by Mode 7, so I wanted to experiment by creating something similar in 3D.
 </p>
 <p align="center">
 <img src="https://media.discordapp.net/attachments/1119350077710934137/1130907166669295758/image.png?width=717&height=608">
