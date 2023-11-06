@@ -150,7 +150,7 @@ The aim was to reinforce the clinic's security by developing a system that would
 	<a href="https://www.linkedin.com/in/mathis-moyse-aaa52b17b/">
 		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
-	
+	<span>&nbsp;</span>
 	<a href="mailto:mathis.moyse@gmail.com">
 		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
