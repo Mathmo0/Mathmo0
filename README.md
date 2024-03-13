@@ -32,7 +32,7 @@ Oracle, PostgreSQL</td></tr>
 ## [🥖 Cooking Overtime ! (13th edition of the Ubisoft Game Lab Competition)](https://ivs2107.itch.io/cooking-overtime)<p>
 
 <p align="center">
-	<img src="https://media.discordapp.net/attachments/1119350077710934137/1120035187154239518/ImagePresentation.png?width=1177&height=662" style="width:75%;">
+	<img src="[https://media.discordapp.net/attachments/1119350077710934137/1120035187154239518/ImagePresentation.png?width=1177&height=662](https://media.discordapp.net/attachments/1119350077710934137/1120035187154239518/ImagePresentation.png?ex=66005c0d&is=65ede70d&hm=d72d66d48480296840c67899f68eb00f2c72f183d55e9f6ce92ea3ab65d137d8&=&format=webp&quality=lossless&width=810&height=456)" style="width:75%;">
 </p>
 
 <p>
