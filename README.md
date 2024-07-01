@@ -51,7 +51,7 @@ Oracle, PostgreSQL</td></tr>
 In my spare time, I developed a game with Unity (C#) in the style of F-zero developed by Nintendo. My goal was to develop a game on my own, for fun and to learn the basics. I developed a procedural generation of the pipe shaped race. I was intrigued by Mode 7, so I wanted to experiment by creating something similar in 3D.
 </p>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1119350077710934137/1130907166669295758/image.png?ex=6602ff5f&is=65f08a5f&hm=56bb7c188dcdf29d170480038ed824ac0edd60c26bacd9fe9098780550dd7fc7&">
+<img src="https://raw.githubusercontent.com/Mathmo0/F_12/main/F_12/Assets/F12_Gameplay_3.gif">
 </p>
 <h5 align="center">The race is generated procedurally, enabling an endless gameplay.</h5>
 
