@@ -29,10 +29,10 @@ Oracle, PostgreSQL</td></tr>
 
 # 💻 Projects
 
-## [🥖 Cooking Overtime ! (13th edition of the Ubisoft Game Lab Competition)](https://ivs2107.itch.io/cooking-overtime)<p>
+## [🥖 Cooking Overtime ! (13th edition of the Ubisoft Game Lab Competition)](https://github.com/Mathmo0/Cooking_Overtime)<p>
 
 <p align="center">
-	<img src="https://cdn.discordapp.com/attachments/1119350077710934137/1120035187154239518/ImagePresentation.png?ex=66005c0d&is=65ede70d&hm=d72d66d48480296840c67899f68eb00f2c72f183d55e9f6ce92ea3ab65d137d8&" style="width:75%;">
+	<img src="https://raw.githubusercontent.com/Mathmo0/Cooking_Overtime/main/Projet_Ubisoft/images/ImagePresentation.png" style="width:75%;">
 </p>
 
 <p>
@@ -57,7 +57,7 @@ In my spare time, I developed a game with Unity (C#) in the style of F-zero deve
 
 ## [📱 PokemonGo-like *(2022)*]()
 <p align="center">
-	<img src="https://cdn.discordapp.com/attachments/1119350077710934137/1119350496403148962/POLYPOKE_logo.png?ex=65fdde62&is=65eb6962&hm=99c3660d6a39558013befb543ed91edc2035408e26b4b8077c3e4b4da70856cf&" style="width: 20%; height: 20%;">
+	<img src="https://raw.githubusercontent.com/Mathmo0/PolyPoke/main/images/POLYPOKE_logo.png" style="width: 20%; height: 20%;">
 </p>
 
 <p>
@@ -65,16 +65,16 @@ The aim of the application is to reproduce to some extent the PokémonGO applica
 This project is constituted of tree parts: the server, the android application and a web site.
 </p>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1119350077710934137/1119352660563345508/image.png?ex=65fde066&is=65eb6b66&hm=25b64199374a6fef5fa41aec6a61e9cc672cf9024e42c7a056aab6d81104cef9&" align="center">
+<img src="https://raw.githubusercontent.com/Mathmo0/PolyPoke/main/images/image2.png" align="center">
 </p>
 <h5 align="center">Some screenshot of the android application.</h5>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1119350077710934137/1119357172883652648/image.png?ex=65fde49a&is=65eb6f9a&hm=df9e1f504ac4c55768cdd2339d6b58298b2a093b0228a807877be81fd6806e2d&">
+<img src="https://raw.githubusercontent.com/Mathmo0/PolyPoke/main/images/image1.png">
 <h5 align="center">Pokedex consulting on the web.</h5>
 </p>
 
 ## [☁️ Cloud storage service *(2023)*]()
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1119350077710934137/1171026975226335262/LOGO-LOGYLINE-2021-RVB-1.jpg?ex=66014bdb&is=65eed6db&hm=580550f74e2aa0e273d1b1fa177af83b4f1132d83c9524a66b2fad823dfdd326&" style="width: 20%; height: 20%;"></p>
+<p align="center"><img src="https://logyline.com/wp-content/uploads/2023/06/cropped-LOGO-LOGYLINE-2021-RVB.png" style="width: 20%; height: 20%;"></p>
 <p>
 <p>
 I did my end-of-studies internship with Logyline. This company develops and sells CAD software for professionals. My role was to develop and integrate a cloud storage service in C# into their CAD software. The cloud project consists of a service part that is used with an API and a web interface for consulting statistics.
