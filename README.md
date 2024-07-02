@@ -55,7 +55,7 @@ In my spare time, I developed a game with Unity (C#) in the style of F-zero deve
 </p>
 <h5 align="center">The race is generated procedurally, enabling an endless gameplay.</h5>
 
-## [📱 PokemonGo-like *(2022)*]()
+## [📱 PokemonGo-like *(2022)*](https://github.com/Mathmo0/PolyPoke)
 <p align="center">
 	<img src="https://raw.githubusercontent.com/Mathmo0/PolyPoke/main/images/POLYPOKE_logo.png" style="width: 20%; height: 20%;">
 </p>
