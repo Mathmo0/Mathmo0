@@ -45,13 +45,13 @@ Oracle, PostgreSQL</td></tr>
 
 ## [🚀 Space racer video game *(2022)*](https://github.com/Mathmo0/F_12)
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1119350077710934137/1130915915660271638/F12_Gameplay_3.gif?ex=66030785&is=65f09285&hm=02784448bdb7ff52fb16cf375386a3d40dd96875ee7d8e7d80c97d220545a993&" alt="F12 Gameplay">
+<img src="https://raw.githubusercontent.com/Mathmo0/F_12/main/F_12/Assets/F12_Gameplay_3.gif" alt="F12 Gameplay">
 </p>
 <p>
 In my spare time, I developed a game with Unity (C#) in the style of F-zero developed by Nintendo. My goal was to develop a game on my own, for fun and to learn the basics. I developed a procedural generation of the pipe shaped race. I was intrigued by Mode 7, so I wanted to experiment by creating something similar in 3D.
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Mathmo0/F_12/main/F_12/Assets/F12_Gameplay_3.gif">
+<img src="https://github.com/Mathmo0/F_12/blob/main/F_12/Assets/road.png">
 </p>
 <h5 align="center">The race is generated procedurally, enabling an endless gameplay.</h5>
 
